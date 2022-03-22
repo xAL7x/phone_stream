@@ -56,7 +56,7 @@ if True:
         
 	def Y11_command():
             client.send('11'.encode())
-    def Y12_command():
+	def Y12_command():
             client.send('12'.encode())
 	Y1_Button=Button(root,image=Y1_image,command=Y1_command).place(y=0,x=720)
 
