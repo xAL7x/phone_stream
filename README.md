@@ -1,6 +1,6 @@
 # Phone_Stream
 
-<div style="text-align:center">
+<div dir="rtl" style="text-align:center">
 
 ![phone Duck](https://user-images.githubusercontent.com/76629405/159698792-0d992ebb-79e8-4c3d-b56d-fdf08df4ed5c.png)
 
