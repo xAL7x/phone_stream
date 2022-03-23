@@ -5,7 +5,7 @@ server.bind((host,port));server.listen()
 client,addr=server.accept()
 #___
 ### SERVER Files
-file='help1.py'
+file='main.py'
 text=open(file,'r');text_read=text.read()
 text_write=open(file,'w')
 Target_name_file='target.txt'
